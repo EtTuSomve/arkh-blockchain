@@ -32,4 +32,4 @@ genesis:
             "denom": "arkh"
 init:
   app:
-    minimum-gas-prices: "0.0001arkh"
+    minimum-gas-prices: "0.0000000001arkh"
